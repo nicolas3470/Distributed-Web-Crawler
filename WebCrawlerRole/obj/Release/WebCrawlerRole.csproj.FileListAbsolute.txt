@@ -1,0 +1,10 @@
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\bin\Release\WebCrawlerRole.dll.config
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\bin\Release\WebCrawlerRole.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\bin\Release\WebCrawlerRole.pdb
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\bin\Release\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\obj\Release\WebCrawlerRole.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\WebCrawlerRole\obj\Release\WebCrawlerRole.pdb

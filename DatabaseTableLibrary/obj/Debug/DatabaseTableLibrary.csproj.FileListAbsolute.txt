@@ -1,0 +1,5 @@
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\DatabaseTableLibrary\bin\Debug\DatabaseTableLibrary.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\DatabaseTableLibrary\bin\Debug\DatabaseTableLibrary.pdb
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\DatabaseTableLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\DatabaseTableLibrary\obj\Debug\DatabaseTableLibrary.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\DatabaseTableLibrary\obj\Debug\DatabaseTableLibrary.pdb

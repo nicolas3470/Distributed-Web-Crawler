@@ -1,0 +1,10 @@
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\bin\Debug\Indexer.dll.config
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\bin\Debug\Indexer.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\obj\Debug\Indexer.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\Indexer\obj\Debug\Indexer.pdb

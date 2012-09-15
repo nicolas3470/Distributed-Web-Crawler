@@ -1,0 +1,10 @@
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\bin\UserInterface.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\bin\UserInterface.pdb
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\bin\System.Web.Providers.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Nicolas\documents\visual studio 2010\Projects\WebCrawler\UserInterface\obj\Debug\UserInterface.pdb

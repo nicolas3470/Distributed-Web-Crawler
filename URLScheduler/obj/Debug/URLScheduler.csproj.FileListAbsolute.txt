@@ -1,0 +1,10 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\bin\Debug\URLScheduler.dll.config
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\bin\Debug\URLScheduler.dll
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\bin\Debug\URLScheduler.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\obj\Debug\URLScheduler.dll
+c:\users\nicolas\documents\visual studio 2010\Projects\WebCrawler\URLScheduler\obj\Debug\URLScheduler.pdb

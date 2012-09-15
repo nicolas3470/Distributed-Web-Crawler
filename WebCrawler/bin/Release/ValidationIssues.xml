@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ValidationIssue Include="Indexer|ServiceConfiguration.Cloud.cscfg|WAT170">
+      <ProjectName>Indexer</ProjectName>
+      <FilenameWithExtension>ServiceConfiguration.Cloud.cscfg</FilenameWithExtension>
+      <Code>WAT170</Code>
+      <FileFullPath>bin\Release\ServiceConfiguration.cscfg</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString;Indexer;ServiceConfiguration.Cloud.cscfg</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="Indexer|ServiceConfiguration.Cloud.cscfg|WAT170">
+      <ProjectName>Indexer</ProjectName>
+      <FilenameWithExtension>ServiceConfiguration.Cloud.cscfg</FilenameWithExtension>
+      <Code>WAT170</Code>
+      <FileFullPath>bin\Release\ServiceConfiguration.cscfg</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>CrawlerStorage;Indexer;ServiceConfiguration.Cloud.cscfg</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="UserInterface|ServiceConfiguration.Cloud.cscfg|WAT170">
+      <ProjectName>UserInterface</ProjectName>
+      <FilenameWithExtension>ServiceConfiguration.Cloud.cscfg</FilenameWithExtension>
+      <Code>WAT170</Code>
+      <FileFullPath>bin\Release\ServiceConfiguration.cscfg</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString;UserInterface;ServiceConfiguration.Cloud.cscfg</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="UserInterface|web.config|WAT230">
+      <ProjectName>UserInterface</ProjectName>
+      <FilenameWithExtension>web.config</FilenameWithExtension>
+      <Code>WAT230</Code>
+      <FileFullPath>web.config</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>DefaultConnection;.\SQLEXPRESS;UserInterface</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="WebCrawlerRole|ServiceConfiguration.Cloud.cscfg|WAT170">
+      <ProjectName>WebCrawlerRole</ProjectName>
+      <FilenameWithExtension>ServiceConfiguration.Cloud.cscfg</FilenameWithExtension>
+      <Code>WAT170</Code>
+      <FileFullPath>bin\Release\ServiceConfiguration.cscfg</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>CrawlerStorage;WebCrawlerRole;ServiceConfiguration.Cloud.cscfg</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+    <ValidationIssue Include="WebCrawlerRole|ServiceConfiguration.Cloud.cscfg|WAT170">
+      <ProjectName>WebCrawlerRole</ProjectName>
+      <FilenameWithExtension>ServiceConfiguration.Cloud.cscfg</FilenameWithExtension>
+      <Code>WAT170</Code>
+      <FileFullPath>bin\Release\ServiceConfiguration.cscfg</FileFullPath>
+      <WATMessage>True</WATMessage>
+      <Arguments>Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString;WebCrawlerRole;ServiceConfiguration.Cloud.cscfg</Arguments>
+      <HelpKeyword>WATValidationIssueWarning</HelpKeyword>
+    </ValidationIssue>
+  </ItemGroup>
+</Project>
